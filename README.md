@@ -158,13 +158,13 @@ Repository screenshots provide implementation examples documenting:
 ### Jira Timeline View
 ![Jira Timeline](screenshots/06_Jira_Timeline.png)
 
-### Workflow Automation — Sheets to Trello
+### Workflow Automation: Sheets to Trello
 ![Zapier Sheets to Trello](screenshots/07_Zapier_Sheets_to_Trello.png)
 
-### Workflow Automation — Trello to Jira
+### Workflow Automation: Trello to Jira
 ![Zapier Trello to Jira](screenshots/08_Zapier_Trello_to_Jira.png)
 
-### Workflow Automation — Jira to Executive Reporting
+### Workflow Automation: Jira to Executive Reporting
 ![Zapier Jira to Executive Report](screenshots/09_Zapier_Jira_to_Executive_Report.png)
 
 ### Executive Reporting Example
