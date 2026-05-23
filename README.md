@@ -2,82 +2,87 @@
 
 ## REPOSITORY OVERVIEW
 
-This repository contains materials supporting a simulated cybersecurity modernization program workspace designed to model enterprise program delivery, governance coordination, workflow management, and executive reporting processes across a multi-workstream implementation environment.
+This repository contains materials supporting a simulated cybersecurity program-delivery workspace designed to model enterprise coordination, governance tracking, workflow management, and executive reporting across a multi-workstream cybersecurity modernization initiative.
 
-The project was developed as an operational coordination and program-delivery exercise intended to examine how enterprise modernization efforts may be structured, tracked, governed, and reported across interconnected systems and stakeholder functions.
+The project was developed as a structured operational and program-delivery exercise intended to demonstrate how cybersecurity modernization efforts may be planned, coordinated, governed, and reported across interconnected systems and stakeholder functions.
 
-Because the project is intended as a portfolio demonstration artifact rather than a live organizational implementation, workflows, dependencies, reporting structures, and governance processes were developed within a simulated environment designed to reflect plausible program-management conditions.
+Because the project serves as a portfolio demonstration artifact rather than a live organizational implementation, workflows, dependencies, reporting structures, and governance processes were developed within a simulated implementation environment designed to reflect plausible enterprise program-management conditions.
 
 The project was developed as a structured program-delivery exercise focused on:
 
 - program governance coordination  
 - cross-platform workflow management  
 - task sequencing and dependency tracking  
-- RAID log development and maintenance  
+- RAID log implementation and maintenance  
 - timeline and milestone planning  
 - status reporting and executive communication  
 - workflow automation and synchronization  
-- AI-assisted reporting implementation  
+- recurring executive reporting  
 
 The framework is operational rather than technical and does not represent an active cybersecurity environment, production security infrastructure, or organizational security implementation.
 
-Repository contents are organized as standalone operational deliverables and supporting files.
-
-### Primary project materials include:
-
-#### Documentation
-
-**01_Executive_Overview.pdf**  
-High-level overview of project purpose, implementation structure, operational objectives, and project scope.
-
-**02_Methodology_Memorandum.pdf**  
-Documentation of workflow architecture, governance logic, delivery assumptions, and cross-platform coordination processes.
-
-**03_Technical_Appendix.pdf**  
-Supporting technical materials documenting workflow structure, automation logic, synchronization design, and implementation assumptions.
-
-#### Program Delivery Materials
-
-**Cybersecurity_Program_Workspace.xlsx**  
-Integrated program-delivery workbook containing task tracking, milestone planning, dependency management, timeline sequencing, rules logic, and RAID governance materials across multiple worksheets.
-
-Primary worksheet tabs include:
-
-- **Task_Tracker** — centralized task inventory, ownership, status tracking, priorities, dependencies, and due-date coordination  
-- **Timeline** — phased implementation schedule and milestone sequencing  
-- **Rules** — workflow logic and supporting program-delivery structures  
-- **RAID_Log** — structured tracking of risks, assumptions, issues, and dependencies supporting governance review
-
-#### Workflow and Coordination Materials
-
-**Trello_Workspace_Screenshots/**  
-Kanban-style execution workflow demonstrating task movement, prioritization, and delivery tracking.
-
-**Jira_Workflow_Screenshots/**  
-Jira-style governance workflow supporting issue tracking, timeline visualization, and workstream coordination.
-
-#### Automation and Reporting Materials
-
-**Executive_Report_Sample.pdf**  
-Sample AI-assisted executive memorandum generated from project workflow status.
-
-**Zapier_Automation_Screenshots/**  
-Workflow automation materials supporting synchronization between planning systems and reporting outputs.
+Repository contents are organized as standalone operational deliverables and supporting documentation.
 
 ---
 
-## SCOPE
+## PRIMARY PROJECT MATERIALS
+
+### Documentation
+
+**01_Executive_Memo.pdf**  
+High-level overview of project purpose, implementation structure, operational objectives, program scope, and delivery approach.
+
+**02_Technical_Appendix.pdf**  
+Technical documentation supporting workflow architecture, governance logic, spreadsheet implementation, automation structure, synchronization methods, and reporting configuration.
+
+---
+
+### Program Delivery Materials
+
+**Cybersecurity Awareness & Identity Security Modernization Program.xlsx**  
+Integrated program-delivery workbook containing task tracking, milestone planning, dependency management, scheduling logic, workflow rules, and RAID governance materials across multiple worksheets.
+
+Primary worksheet tabs include:
+
+- **Task_Tracker** — centralized task inventory, ownership tracking, workflow status, priorities, dependencies, and due-date coordination  
+- **Timeline** — phased implementation schedule and milestone sequencing logic  
+- **Rules** — workflow assumptions, scheduling logic, and supporting implementation structures  
+- **RAID_Log** — structured tracking of risks, assumptions, issues, and dependencies supporting governance visibility
+
+---
+
+### Workflow and Coordination Materials
+
+**Executive Report Sample.pdf**  
+Sample executive memorandum demonstrating recurring implementation reporting outputs.
+
+**screenshots/**  
+Repository folder containing implementation screenshots documenting workflow structure, governance visibility, and coordination systems.
+
+Included materials demonstrate:
+
+- Google Sheets task and governance tracking  
+- RAID log implementation  
+- Trello Kanban coordination workflows  
+- Jira board and list management views  
+- Jira timeline visualization  
+- workflow automation configurations  
+- executive reporting outputs
+
+---
+
+## IMPLEMENTATION SCOPE
 
 Primary objectives included:
 
 - enterprise-style workflow coordination  
 - program governance simulation  
-- dependency and milestone management  
+- milestone and dependency management  
+- RAID implementation and tracking  
 - cross-platform synchronization  
-- RAID implementation  
 - executive reporting development  
 - operational workflow automation  
-- structured implementation documentation  
+- structured implementation documentation
 
 The project emphasizes:
 
@@ -85,9 +90,10 @@ The project emphasizes:
 - operational coordination  
 - program-delivery workflows  
 - governance structure  
-- workflow automation  
-- executive reporting implementation  
-- cross-platform integration  
+- workflow synchronization  
+- executive communication  
+- milestone tracking  
+- cross-platform integration
 
 ---
 
@@ -98,34 +104,77 @@ Primary tools and methods used include:
 - Google Sheets  
 - Microsoft Excel  
 - Trello  
-- Jira-style workflow management  
+- Jira workflow management  
 - Zapier automation  
 - RAID governance methodology  
 - Kanban workflow structures  
-- timeline and milestone tracking  
-- cross-platform synchronization logic  
-- AI-assisted executive reporting  
-- structured program documentation  
+- timeline and milestone planning  
+- dependency management logic  
+- cross-platform synchronization workflows  
+- executive reporting implementation  
+- structured operational documentation
 
 ---
 
 ## NAVIGATION GUIDANCE
 
-Reviewers seeking a high-level overview should begin with **01_Executive_Overview.pdf**.
+Reviewers seeking a high-level overview should begin with **01_Executive_Memo.pdf**.
 
-Reviewers seeking implementation details should consult **02_Methodology_Memorandum.pdf** and **03_Technical_Appendix.pdf**.
+Reviewers seeking technical implementation details should consult **02_Technical_Appendix.pdf**.
 
-Program workflow materials, tracking systems, and governance documentation are contained in **Cybersecurity_Program_Workspace.xlsx** and **RAID_Log.xlsx**.
+Core workflow materials, task coordination structures, governance logic, and RAID implementation are contained within:
 
-Workflow implementation examples are available through the Trello and Jira screenshot materials.
+**Cybersecurity Awareness & Identity Security Modernization Program.xlsx**
 
-Executive reporting outputs and automation examples are documented in **Executive_Report_Sample.pdf** and **Zapier_Automation_Screenshots/**.
+Repository screenshots provide implementation examples documenting:
+
+- program task tracking  
+- RAID governance structures  
+- Trello workflow coordination  
+- Jira work-item management  
+- timeline visualization  
+- workflow automation configuration  
+- recurring executive reporting
+
+---
+
+## IMPLEMENTATION SCREENSHOTS
+
+### Program Task Tracking
+![Task Tracker](screenshots/01_Task_Tracker.png)
+
+### RAID Governance Log
+![RAID Log](screenshots/02_RAID_Log.png)
+
+### Trello Workflow Coordination
+![Trello Kanban](screenshots/03_Trello_Kanban.png)
+
+### Jira Board View
+![Jira Board](screenshots/04_Jira_Board.png)
+
+### Jira List View
+![Jira List](screenshots/05_Jira_List_View.png)
+
+### Jira Timeline View
+![Jira Timeline](screenshots/06_Jira_Timeline.png)
+
+### Workflow Automation — Sheets to Trello
+![Zapier Sheets to Trello](screenshots/07_Zapier_Sheets_to_Trello.png)
+
+### Workflow Automation — Trello to Jira
+![Zapier Trello to Jira](screenshots/08_Zapier_Trello_to_Jira.png)
+
+### Workflow Automation — Jira to Executive Reporting
+![Zapier Jira to Executive Report](screenshots/09_Zapier_Jira_to_Executive_Report.png)
+
+### Executive Reporting Example
+![Executive Report](screenshots/10_Executive_Report.png)
 
 ---
 
 ## IMPLEMENTATION CONSTRAINTS
 
-This project was developed as a simulated program-delivery and operational-coordination environment designed to demonstrate workflow governance, task sequencing, reporting structures, and automation logic within a cybersecurity modernization context.
+This project was developed as a simulated cybersecurity program-delivery and operational-coordination environment intended to demonstrate workflow governance, task sequencing, milestone tracking, reporting structures, and automation logic within a cybersecurity modernization context.
 
 No live organizational systems, proprietary cybersecurity infrastructure, confidential organizational information, or production security environments are represented.
 
